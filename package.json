@@ -1,0 +1,19 @@
+{
+    "name": "inkscape-sprite-rects-loader",
+    "version": "1.0.0",
+    "description": "Webpack loader for inkscape sprite rectangles",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:misanthrop/inkscape-sprite-rects-loader.git"
+    },
+    "scripts": {
+        "preinstall": "coffee -c *.coffee"
+    },
+    "author": "Wheel Labs",
+    "license": "MIT",
+    "devDependencies": {
+        "coffeescript": "^2.0.0",
+        "fast-xml-parser": "^2.9.3"
+    }
+}
