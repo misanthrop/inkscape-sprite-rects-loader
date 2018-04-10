@@ -12,8 +12,10 @@
     },
     "author": "Wheel Labs",
     "license": "MIT",
-    "devDependencies": {
-        "coffeescript": "^2.0.0",
+    "dependencies": {
         "fast-xml-parser": "^2.9.3"
+    },
+    "devDependencies": {
+        "coffeescript": "^2.0.0"
     }
 }
